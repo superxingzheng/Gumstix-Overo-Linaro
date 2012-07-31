@@ -9,5 +9,5 @@ uboot-mkimage=2011.09-2
 flash-kernel=2.28ubuntu42.2linaro1
 crda=1.1.2-1ubuntu1
 libnl-genl-3-200=3.2.3-2ubuntu2
-linux-headers-3.2.1-linaro-omap=3.2.1-linaro-omap-10.00.Custom
 linux-image-3.2.1-linaro-omap=3.2.1-linaro-omap-10.00.Custom
+linux-headers-3.2.1-linaro-omap=3.2.1-linaro-omap-10.00.Custom
